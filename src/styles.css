@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.list-items {
+  list-style: none;
+}
+.list {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+.ul {
+  display: flex;
+  gap: 1rem;
+}
+.delete {
+  color: red;
+}
+.btn {
+  position: absolute;
+}
